@@ -1,0 +1,1 @@
+npx sequelize db:seed --seed.sol linguist-language=Solidity
